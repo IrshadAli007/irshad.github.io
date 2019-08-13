@@ -1,2 +1,2 @@
 # irshad.github.io
-Hello world!
+Auto redirect from html or as a fallback provide a link.
